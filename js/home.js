@@ -103,10 +103,7 @@ const drawComic = comic => {
 // 		})
 // 	}
 // }
-<script>
-        var CurrentYear = new Date().getFullYear()
-        document.write(CurrentYear)
-      </script> ⭐<a href="https://github.com/robertosuarezm">Roberto suarez⭐</a>
+
 
 
 const drawHero = hero => {
