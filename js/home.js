@@ -103,7 +103,7 @@ const drawComic = comic => {
 // 		})
 // 	}
 // }
-
+</script> ⭐<a href="https://github.com/robertosuarezm">Roberto suarez⭐</a>
 const drawHero = hero => {
   const image = `${hero.thumbnail.path}/portrait_uncanny.${hero.thumbnail.extension}`;
   const heroes =`
