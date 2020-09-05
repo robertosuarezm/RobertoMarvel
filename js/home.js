@@ -104,8 +104,6 @@ const drawComic = comic => {
 // 	}
 // }
 
-
-
 const drawHero = hero => {
   const image = `${hero.thumbnail.path}/portrait_uncanny.${hero.thumbnail.extension}`;
   const heroes =`
@@ -122,6 +120,3 @@ const drawHero = hero => {
 
 
 getConnection();
-
-
-
