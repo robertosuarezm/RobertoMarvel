@@ -103,7 +103,12 @@ const drawComic = comic => {
 // 		})
 // 	}
 // }
-</script> ⭐<a href="https://github.com/robertosuarezm">Roberto suarez⭐</a>
+<script>
+        var CurrentYear = new Date().getFullYear()
+        document.write(CurrentYear)
+      </script> ⭐<a href="https://github.com/robertosuarezm">Roberto suarez⭐</a>
+
+
 const drawHero = hero => {
   const image = `${hero.thumbnail.path}/portrait_uncanny.${hero.thumbnail.extension}`;
   const heroes =`
